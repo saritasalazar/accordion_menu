@@ -42,16 +42,6 @@ img {
   margin: 25px;
 }
 
-.imgs {
-  height: 100%;
-  width: 55%;
-  background-position: 100% 0%;
-  background-repeat: no-repeat;
-  background-size: 500px 525px;
-  display: flex;
-  align-items: center;
-}
-
 .faq {
   display: flex;
   justify-content: space-between;
